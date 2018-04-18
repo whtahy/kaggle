@@ -1,0 +1,17 @@
+# data
+*.csv
+
+# python
+*.pickle
+__pycache__/
+.pytest_cache
+
+# jetbrains
+.idea/
+
+# vscode
+.vscode/
+
+# jupyter
+.ipynb_checkpoints/
+scratch.ipynb
